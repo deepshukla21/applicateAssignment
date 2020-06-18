@@ -1,0 +1,75 @@
+{"catalog": [
+  {
+  "skuCode": "FRE-TMILK-NAND-1L",
+  "skuName": "Tonned Milk",
+  "skuDesc": "Normal fat Milk",
+  "brandName": "Nandini",
+  "brandDesc": "Nandini is brand of KMF",
+  "sid": 1
+
+},
+  
+ {
+  "skuCode": "FRE-SMILK-NAND-1L",
+  "skuName": "Slim Milk",
+  "skuDesc": "Low fat Milk",
+  "brandName": "Nandini",
+  "brandDesc": "Nandini is brand of KMF",
+  "sid": 1
+},
+
+{
+  "skuCode": "BB-TMILK-NAND-1L",
+  "skuName": "Tonned Milk",
+  "skuDesc": "Normal fat Milk",
+  "brandName": "Nandini",
+  "brandDesc": "Nandini is brand of KMF",
+  "sid": 2
+},
+ 
+{
+  "skuCode": "DMART-EGGS-LOS-12",
+  "skuName": "Loose Egg",
+  "skuDesc": "1 Dozen Loose Eggs",
+  "brandName": "Generic",
+  "brandDesc": "NA",
+  "sid": 3
+}, 
+
+{
+  "skuCode": "BBAZ-SDRINK-OPEP-1L",
+  "skuName": "Pepsi",
+  "skuDesc": "Original pepesi",
+  "brandName": "PespsiCo",
+  "brandDesc": "American Mutlinational Food Snack and Beverage",
+  "sid": 4
+}, 
+
+ {
+  "skuCode": "BBAZ-SDRINK-DPEP-1L",
+  "skuName": "Pepsi",
+  "skuDesc": "Diet pepesi",
+  "brandName": "PespsiCo",
+  "brandDesc": "American Mutlinational Food Snack and Beverage",
+  "sid": 4
+},
+ 
+ {
+  "skuCode": "BBAZ-CHIPS-LAYS-TOMT-200G",
+  "skuName": "Lays Tomato",
+  "skuDesc": "Tomato flavour potato chips",
+  "brandName": "Fritolay",
+  "brandDesc": " Fritolay is part of Pepsico which is an American Mutlinational Food Snack and Beverage",
+  "sid": 4
+}
+
+ {
+  "skuCode": "BBAZ-CHIPS-LAYS-TOMT-200G",
+  "skuName": "Lays Tomato",
+  "skuDesc": "Tomato flavour potato chips",
+  "brandName": "Fritolay",
+  "brandDesc": " Fritolay is part of Pepsico which is an American Mutlinational Food Snack and Beverage",
+  "sid": 4
+}
+
+]}
