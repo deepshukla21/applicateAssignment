@@ -24,6 +24,9 @@ SUPPLIER - PRODUCT_SHORT_HAND - PRODUCT DESC 1(OPT) - PRODDUCT DESC 2(OPT) - PRO
 
 Eg:
 Supplier Name: More
+
 Product Name: Dairy Milk SILK
+
 Product Desc: 100 Gms
+
 SKU: MORE-DMSILK-100G
